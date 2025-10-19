@@ -1,7 +1,8 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "@botify-network/zoom-control",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Prime & VIP Zoom Meeting Control Dashboard",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -30,6 +31,6 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
-    "vite": "^5.4.2"
+    "vite": "^6.4.0"
   }
 }
